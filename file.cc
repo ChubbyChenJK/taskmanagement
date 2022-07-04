@@ -10,4 +10,6 @@ int main()
 
 	printf("fd = %d",fd);
 	fclose(fp);
+
+	printf("hello, world!");
 }
